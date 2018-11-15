@@ -12,10 +12,10 @@ sub_heading: Research Chair
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
 thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
-layout: 'person'
----
+layout: person
 
-Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
+---
+Mary-Ann MacSwain joined Belkirk in **2016** as a Data Analyst.
 
 Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
 
